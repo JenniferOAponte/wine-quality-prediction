@@ -1,6 +1,6 @@
 # 🍷 Wine Quality Prediction — Portfolio Project
 
-**Author:** Your Name  
+**Author:** Jennifer Aponte
 **Dataset:** Wine Quality (UCI ML Repository — provided as `allwine.csv`)  
 **Goal:** Predict wine quality (good vs. not-good) from 10 physicochemical properties.
 
@@ -35,5 +35,3 @@ This project demonstrates:
 - **Top Features**: Alcohol, Sulphates, Volatile Acidity
 
 ---
-
-## 📂 Repository Structure
